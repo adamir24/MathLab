@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">MathLab 2.0</string>
+
+    <string name="funkcja_liniowa">Funkcję liniową określa wzór:</string>
+    <string name="funkcja_liniowa_wzor">f(x)=ax+b</string>
+    <string name="opis_funkcji_liniowej">gdzie: \n
+        a - to współczynnik kierunkowy prostej \n
+        b - to wyraz wolny</string>
+
+    <string name="funkcja_kwadratowa">Wzór ogólny funkcji kwadratowej ma postać:</string>
+    <string name="funkcja_kwadratowa_wzor">f(x)=ax^2+bx+c</string>
+    <string name="opis_funkcji_kwadratowej">gdzie litery a, b oraz c są współczynnikami liczbowymi. \n
+        Wykresem każdej funkcji kwadratowej jest parabola.</string>
+
+    <string name="funkcja_logarytmiczna">Funkcja logarytmiczna ma wzór:</string>
+    <string name="funkcja_logarytmiczna_wzor">f(x)=log a&#780; x</string>
+    <string name="opis_funkcji_logarytmicznej">Zakładamy przy tym, że a>0, a≠1, x>0. \n
+        Wykresem tej funkcji jest krzywa która zawsze przecina oś Ox dla argumentu x=1. \n
+        Zasadniczy kształt wykresu zależy do tego czy a>1 czy a&#60;1 </string>
+    <string name="przycisk_logarytmiczny1">Wykresy o podstawie a>1</string>
+    <string name="przycisk_logarytmiczny2">Wykresy o podstawie a&#60;1</string>
+
+    <string name="funkcja_wymierna">Funkcja wymierna - to funkcja, którą można zapisać w postaci:</string>
+    <string name="funkcja_wymierna_wzor">f(x)=w(x)/p(x)</string>
+    <string name="opis_funkcji_wymiernej">gdzie: \n
+        w(x) - dowolny wielomian,\n
+        p(x) - wielomian niezerowy.</string>
+
+    <string name="funkcja_wykladnicza">Funkcja wykładnicza ma wzór:</string>
+    <string name="funkcja_wykladnicza_wzor">f(x)=ax^2</string>
+    <string name="opis_funkcji_wykldniczej">gdzie a>0. \n
+        Nazwa funkcji wykładniczej pochodzi od tego, że x znajduje się w wykładniku. \n
+        Wykresem funkcji y=ax jest krzywa, która zawsze przecina oś y w punkcie 1. \n
+        Zasadniczy kształt wykresu zależy do tego czy a>1 czy a&#60;1.</string>
+    <string name="wykres_funkcji_wykladniczej_wiekszy">Wykresy funkcji wykładniczej o podstawie a>1</string>
+    <string name="wykres_funkcji_wykladniczej_mniejszy">Wykresy funkcji wykładniczej o podstawie a&#60;1</string>
+
+    <string name="autor">Adam Mirowski</string>
+    <string name="numer_indeksu">30111</string>
+    <string name="wydzial">Wydział Informatyki i Zarządzania</string>
+    <string name="tryb_studiowania">Studia dzienne</string>
+    <string name="uczelnia">Wyższa Szkoła Informatyki i Umiejętności</string>
+    <string name="miasto">Łódź</string>
+    <string name="rok_akademicki">2018</string>
+
+    <string name="wstecz">Wstecz</string>
+</resources>
